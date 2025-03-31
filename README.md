@@ -62,7 +62,7 @@ The program creates a new directory named `[original_filename]_output` containin
 
 ## Example
 
-![python.png](https://github.com/Matik13/recolor-logo/blob/main/python.png)
+<img src="https://github.com/Matik13/recolor-logo/blob/main/python.png" alt="python.png" width="100"/>
 
 For an input image `python.png` with 'b' as the color to replace:
 
