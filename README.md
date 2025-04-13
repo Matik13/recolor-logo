@@ -36,14 +36,9 @@ A Python script that creates color variations of an logo by swapping RGB channel
 
 ## Usage
 
-1. Place your image in the same directory as the script
-2. Run the script:
-   ```bash
-   python color_swapper.py
-   ```
-3. Follow the prompts:
-   - Enter the image filename (with extension)
-   - Choose which color channel to replace ('r', 'g', or 'b')
+1. Click `Open...` and choose image to recolor.
+2. Choose what colors you want to replace using checkboxes.
+3. Click `Generate` and watch progress bar going!
 
 ## How It Works
 
@@ -62,9 +57,9 @@ The program creates a new directory named `[original_filename]_output` containin
 
 ## Example
 
-<img src="https://github.com/Matik13/recolor-logo/blob/main/python.png" alt="python.png" width="100"/>
+![python.png](https://github.com/Matik13/recolor-logo/blob/main/python.png)
 
-For an input image `python.png` with 'b' as the color to replace:
+For an input image `python.png` with Blue as the color to replace:
 
 - Output folder: `python_output/`
 - Individual files like: `python_b_rrg.png`, `python_b_grb.png`, etc.
