@@ -1,6 +1,6 @@
 # Recolor Logo
 
-A Python script that creates color variations of an logo by swapping RGB channels of chosen dominant color.
+A Python program that creates color variations of an logo by swapping RGB channels of chosen dominant color.
 
 ![python_r_all.png](https://github.com/Matik13/recolor-logo/blob/main/python_r_all.png)
 
